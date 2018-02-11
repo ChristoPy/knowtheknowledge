@@ -1,0 +1,20 @@
+{
+  "name": "knowledge-api",
+  "version": "0.0.1",
+  "description": "An API for Know the Knowledge app, whatever is mobile or desktop.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roqueando/knowtheknowledge.git"
+  },
+  "author": "roqueando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roqueando/knowtheknowledge/issues"
+  },
+  "homepage": "https://github.com/roqueando/knowtheknowledge#readme"
+}
